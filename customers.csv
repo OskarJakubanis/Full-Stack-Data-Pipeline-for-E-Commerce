@@ -1,0 +1,9 @@
+customer_id,first_name,last_name,email,signup_date,region,segment
+C001,Anna,Kowalska,anna.k@example.com,2023-02-15,Europe,Standard
+C002,John,Smith,john.smith@example.com,2023-03-10,North America,Premium
+C003,Julia,Nowak,julia.nowak@example.com,2023-01-20,Europe,Standard
+C004,Tom,Brown,tom.brown@example.com,2023-02-28,Asia,Standard
+C005,Alice,Green,alice.green@example.com,2023-04-05,North America,Premium
+C006,Marcin,Zieliński,marcin.z@example.com,2023-05-12,Europe,Standard
+C007,Emily,White,emily.white@example.com,2023-03-15,Australia,Standard
+C008,Liam,Johnson,liam.j@example.com,2023-06-01,North America,Premium
