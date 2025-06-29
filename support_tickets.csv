@@ -1,0 +1,5 @@
+ticket_id,user_id,issue_type,created_date,resolved_date,status,channel
+T001,U003,Login Issue,2023-05-10,2023-05-11,Resolved,Email
+T002,U007,Payment Failure,2023-05-12,,Open,Chat
+T003,U002,Order Delay,2023-05-13,2023-05-14,Resolved,Phone
+T004,U010,Product Inquiry,2023-05-14,,Open,Email
