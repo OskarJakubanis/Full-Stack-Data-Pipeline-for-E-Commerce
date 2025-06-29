@@ -1,0 +1,4 @@
+return_id,order_id,return_date,reason,status
+R1001,O1005,2023-05-15,Defective item,Processed
+R1002,O1010,2023-05-18,Wrong item sent,Pending
+R1003,O1003,2023-05-20,Customer changed mind,Processed
