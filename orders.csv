@@ -1,0 +1,9 @@
+order_id,customer_id,order_date,product_id,quantity,price,status
+O1001,C001,P2023-05-01,P001,2,29.99,Completed
+O1002,C002,P2023-05-03,P002,1,49.99,Completed
+O1003,C003,P2023-05-05,P003,3,19.99,Cancelled
+O1004,C004,P2023-05-06,P001,1,29.99,Completed
+O1005,C005,P2023-05-07,P004,1,59.99,Returned
+O1006,C006,P2023-05-08,P002,2,49.99,Completed
+O1007,C007,P2023-05-09,P005,1,39.99,Completed
+O1008,C008,P2023-05-10,P003,4,19.99,Completed
