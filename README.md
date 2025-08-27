@@ -47,3 +47,20 @@
 * **Clean, documented CSV datasets** ready for analysis
 * **Python scripts** implementing ETL, KPIs, and data analysis
 * **Summary reports** highlighting insights and metrics
+
+---
+## 🧪 Project Workflow
+
+1. **Review the data** – check `data_description.md` to understand the structure and content of the CSV files.
+2. **Clone the repository** – download all project files to your local machine.
+3. **Run each analysis script (`.py`)** – perform ETL, clean and enrich data, and generate KPI reports.
+4. **Check the console output** – review printed metrics and any generated files for insights.
+
+*Refer to `used_functions.md` for an overview of key Python and library functions used.*
+*In `.py` files, `#` comments show step-by-step procedures.*
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or collaboration proposals, please [open an issue](https://github.com/your-repo/issues) or contact me directly.
